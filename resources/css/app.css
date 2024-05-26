@@ -1,0 +1,23 @@
+/* Tambahkan CSS berikut ke dalam file CSS Anda */
+
+/* Warna biru untuk form input */
+.form-control {
+    border: 1px solid #007bff;
+}
+
+/* Warna biru untuk tombol */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Warna hover biru untuk tombol */
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Warna biru untuk judul */
+.main__title h2 {
+    color: #007bff;
+}
